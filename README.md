@@ -7,5 +7,6 @@
 
 4.支持设置音量大小
 
-Author：Gilbert
+Author：Gilber
+
 Date：2017年5月18日 15:42:03
